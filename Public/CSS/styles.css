@@ -1,0 +1,101 @@
+/* possible color schemes */
+
+}
+.Caela-brand-colors {
+  background-color: whitesmoke;
+  background-color: #dabede;
+  background-color: #c1e7e3; /*goes over color 1*/
+  background-color: #eee9c7;
+  background-color: #eee4e2; /*goes over color 4*/
+}
+
+h1 {
+  font-family: "Abril Fatface", cursive;
+  font-weight: 400;
+}
+
+body {
+  font-family: "poppins", sans-serif;
+  text-align: center;
+  margin-right: 25%;
+}
+
+.container {
+  padding: 7% 10%;
+}
+
+/* NAVBAR STYLING */
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: ;
+  height: 100%;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  overflow: hidden;
+}
+
+#profile-pic {
+  margin: 15% 0% 2%;
+
+  width: 50%;
+  height: auto;
+  object-fit: contain;
+}
+
+.nav-item {
+  border-bottom: 1px solid grey;
+  border-collapse: collapse;
+  margin-top: auto;
+}
+
+.nav-item:nth-child(3) {
+  border-top: 1px solid grey;
+}
+
+.nav-links {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav-links:hover {
+  background-color: black;
+  color: white;
+}
+
+.active {
+  background-color: whitesmoke;
+}
+
+/* Home Styling */
+
+.home-section h1 {
+  font-size: 6rem;
+}
+
+/* About Me Styling */
+
+.about-me-section
+
+
+
+/* My Work styling */
+
+/* My Work styling */
+
+/* My Work styling */
+
+/* My Work styling */
+
+.my-work-section
+
+/* Contact Me styling  */
+
+.contact-me-container;
